@@ -1,0 +1,7 @@
+{
+  "dev":{
+    "url": "https://pokeapi.co/api/v2/",
+    "userId": 2,
+    "nonExistingId": 9292929292929922
+  }
+}
